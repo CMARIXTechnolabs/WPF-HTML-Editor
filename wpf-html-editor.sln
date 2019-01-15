@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpf-html-editor", "wpf-html-editor\wpf-html-editor.csproj", "{2772167E-FA94-41A4-AEA9-E66FAA1A42A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2772167E-FA94-41A4-AEA9-E66FAA1A42A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2772167E-FA94-41A4-AEA9-E66FAA1A42A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2772167E-FA94-41A4-AEA9-E66FAA1A42A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2772167E-FA94-41A4-AEA9-E66FAA1A42A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {689F5152-EB53-4D5F-B157-3227D7C40F70}
+	EndGlobalSection
+EndGlobal
